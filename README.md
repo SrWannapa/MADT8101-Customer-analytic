@@ -1,7 +1,8 @@
-#Designung Customer Data Platform
+# Designung Customer Data Platform
 
-##Data Collection
+## Data Collection
 
 
-##Analysis and Action
-##Data Usage
+## Analysis and Action
+
+## Data Usage
