@@ -1,1 +1,7 @@
-# MADT8101-Customer-analytic
+#Designung Customer Data Platform
+
+##Data Collection
+
+
+##Analysis and Action
+##Data Usage
