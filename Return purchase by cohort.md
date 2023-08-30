@@ -1,0 +1,2 @@
+Return purchase by cohort
+We want to ensure that existing customers are making repeat purchases. How many customers take one, two, three, N quarters to make a repeat purchase? How many have never made a repeat purchase? What does this behavior look like broken out by quarterly cohorts? We can use a FIXED Expression to find the first and second purchase dates per customer, and derive the number of quarters to make a repeat purchase from this.
