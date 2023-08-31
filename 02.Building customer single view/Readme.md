@@ -7,3 +7,7 @@ after that we still keep looking forward to basket size of customer, and Total v
 
 ![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/02.Building%20customer%20single%20view/RFM_Framework1.jpg)
 ## Purchase Evolution -  Velocity Variables
+
+
+## Customer Single Viwe Dashboard
+![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/02.Building%20customer%20single%20view/Customer%20Single%20View.jpg)
