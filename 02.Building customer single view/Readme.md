@@ -7,7 +7,8 @@ after that we still keep looking forward to basket size of customer, and Total v
 
 ![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/02.Building%20customer%20single%20view/RFM_Framework1.jpg)
 ## Purchase Evolution -  Velocity Variables
-
+After we get RFM Framworl we continue understand movement of last 2 months transaction. to check the customer behavior is better or not?
+![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/02.Building%20customer%20single%20view/Purchase%20Evolution%20-%20Velocity%20Variables.jpg)
 
 ## Customer Single Viwe Dashboard
 ![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/02.Building%20customer%20single%20view/Customer%20Single%20View.jpg)
