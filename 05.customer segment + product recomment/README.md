@@ -11,7 +11,7 @@ BEFORE WE DO ANALYSIS WE HAVE TO CLEAN THE DATA AS NaN SO THE RECORD WILL BE 433
 
 ![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/05.customer%20segment%20%2B%20product%20recomment/the%20passenger%20flow.png)
 
-We go deep to quatity they bought the product at 14:00 is the time is the smallest quanity and the biggest order in the early morning because is the time they are buy the goods for cook breakfast or some momther come to shopping after they sent their childen to school then going back home.
+We go deep to quatity they bought the product at 14:00 is the time is the smallest quanity and the biggest order in the early morning because is the time they are buy the goods for cook breakfast or some mother come to shopping after they sent their childen to school then going back home.
 
 ![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/05.customer%20segment%20%2B%20product%20recomment/The%20relationship%20between%20average%20quantity%20and%20hour.png)
 
