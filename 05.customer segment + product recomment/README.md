@@ -17,7 +17,7 @@ We go deep to quatity they bought the product at 14:00 is the time is the smalle
 
 and the last one is the relationship between basket size and hour
 
-![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/05.customer%20segment%20%2B%20product%20recomment/The%20relationship%20between%20basket%20size%20and%20hour.png)
+![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/05.customer%20segment%20%2B%20product%20recomment/The%20relationship%20between%20basket%20size%20and%20hour.jpg)
 
 ## Segment by the price
 
