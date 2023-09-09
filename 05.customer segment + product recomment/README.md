@@ -5,3 +5,7 @@ the dataset infomation as the image below
 ![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/05.customer%20segment%20%2B%20product%20recomment/Data_info.jpg)
 
 BEFORE WE DO ANALYSIS WE HAVE TO CLEAN THE DATA AS NaN SO THE RECORD WILL BE 433142 ROWS FROM 578982 ROWS
+Then we focus in the passenger flow during each period of a day show in the distribution
+
+![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/05.customer%20segment%20%2B%20product%20recomment/the%20passenger%20flow.png)
+
