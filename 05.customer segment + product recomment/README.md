@@ -26,10 +26,15 @@ customers' price sensitivity,conclude the average consumption level
 ![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/05.customer%20segment%20%2B%20product%20recomment/The%20relationship%20between%20price%20sensitivity%20and%20spend.png)
 
 ##  Segment by Lifestage
+The most customer price sensitivity is in the MM and the customer lifestage is OT.
+
+![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/05.customer%20segment%20%2B%20product%20recomment/The%20customer%20price%20sensitive%20with%20the%20number%20Customer%20Lifestage.jpg)
+
 young family are the largest consumer groups(except OT).
 
 ![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/05.customer%20segment%20%2B%20product%20recomment/Composition%20if%20the%20customers%20proce%20sensitiviy.png)
 
 ## Behavior in each month
+in the 1st yesr trend is be growthing up. It seem the supermarket just grand opend so they had many promotion to promote the supermarket. then stable in the 2nd year. and the Nov to Dev the costomer will come to buy the goods for Christmas gift and new year gift.
 
-
+![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/05.customer%20segment%20%2B%20product%20recomment/Movement%20of%20customer%20visit%20times.jpg)
