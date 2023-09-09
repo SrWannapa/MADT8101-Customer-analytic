@@ -22,8 +22,14 @@ and the last one is the relationship between basket size and hour
 ## Segment by the price
 
 customers' price sensitivity,conclude the average consumption level
+
 ![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/05.customer%20segment%20%2B%20product%20recomment/The%20relationship%20between%20price%20sensitivity%20and%20spend.png)
 
 ##  Segment by Lifestage
-The ralationship between customers' lifestage and their price sensitivity
+young family are the largest consumer groups(except OT).
+
+![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/05.customer%20segment%20%2B%20product%20recomment/Composition%20if%20the%20customers%20proce%20sensitiviy.png)
+
+## Behavior in each month
+
 
