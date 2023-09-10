@@ -38,3 +38,23 @@ young family are the largest consumer groups(except OT).
 in the 1st yesr trend is be growthing up. It seem the supermarket just grand opend so they had many promotion to promote the supermarket. then stable in the 2nd year. and the Nov to Dev the costomer will come to buy the goods for Christmas gift and new year gift.
 
 ![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/05.customer%20segment%20%2B%20product%20recomment/Movement%20of%20customer%20visit%20times.jpg)
+
+# Product recommentation
+We make a pivot table to summary which product was bought by each customer
+
+![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/05.customer%20segment%20%2B%20product%20recomment/product%20was%20bought%20by%20each%20customer.jpg)
+
+After we are creating the customer-item martrix we use the collaborative filtering to see the relation product with customer by cosine similarity
+
+![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/05.customer%20segment%20%2B%20product%20recomment/User%20based%20collaborative%20filtering.jpg)
+
+then we look at the top 10 of customer to making recommendation
+![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/05.customer%20segment%20%2B%20product%20recomment/top%2010%20customer.jpg)
+
+and we pick CUST0000000181 to do which product we shpuld recommend in group A and B
+
+
+
+
+
+
