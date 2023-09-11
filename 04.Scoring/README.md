@@ -15,4 +15,4 @@ and the we fins the LastPurshace Date, Recency, Frequency abd Menetary data
 and the we set the rfm in tertiles to do RFM scoring and segment the customer will show as below
 ![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/04.Scoring/make%20rfm%20score%20and%20set%20the%20segment.jpg)
 so we will know how many member trend as the graph below
-!{image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/04.Scoring/Customer%20Segmentation%20from%20RFM%20Score.jpg)
+![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/04.Scoring/Customer%20Segmentation%20from%20RFM%20Score.jpg)
