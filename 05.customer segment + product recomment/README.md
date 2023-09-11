@@ -51,8 +51,9 @@ After we are creating the customer-item martrix we use the collaborative filteri
 then we look at the top 10 of customer to making recommendation
 ![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/05.customer%20segment%20%2B%20product%20recomment/top%2010%20customer.jpg)
 
-and we pick CUST0000000181 to do which product we shpuld recommend in group A and B
-
+and we pick CUST0000000181 to do which product we should recommend in group A and B
+![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/05.customer%20segment%20%2B%20product%20recomment/Item%20A.jpg)
+![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/05.customer%20segment%20%2B%20product%20recomment/Item%20B.jpg)
 
 
 
