@@ -3,3 +3,8 @@ Customer lifetime value (CLV) is one of the key stats to track as part of a cust
 ## Return purchase by cohort
 We want to ensure that existing customers are making repeat purchases. How many customers take one, two, three, N quarters to make a repeat purchase? How many have never made a repeat purchase? What does this behavior look like broken out by quarterly cohorts? We can use a FIXED Expression to find the first and second purchase dates per customer, and derive the number of quarters to make a repeat purchase from this.
 ![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/03.Customer%20lifetime%20value/CLV_Matrix.jpg)
+
+
+after we having the CLV Scoring we can fing the Churn rate in 3 months and Churn rate in 6 months as below
+![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/03.Customer%20lifetime%20value/Churn%20rate%20in%203%20months.jpg)
+![image](https://github.com/SrWannapa/MADT8101-Customer-analytic/blob/main/03.Customer%20lifetime%20value/Churn%20rate%20in%206%20months.jpg)
